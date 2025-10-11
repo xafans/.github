@@ -21,7 +21,7 @@ Every library we create is something we **use ourselves in production** then pol
 | Project | Description |
 |----------|--------------|
 | [**Flare**](https://github.com/xafans/flare) | A simple but powerful event aggregator for typescript |
-| [**(Lux)**](https://github.com/xafans/lux) | Sheds light on your client’s hidden world, extract device, browser, and OS info easily |
+| [**Lux**](https://github.com/xafans/lux) | Sheds light on your client’s hidden world, extract device, browser, and OS info easily |
 
 *(More coming soon!)*
 
