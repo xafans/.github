@@ -5,7 +5,6 @@
 We’re a small group of passionate developers crafting **open-source libraries** that make modern development simpler, clearer, and more reliable.  
 Every library we create is something we **use ourselves in production** then polish, document, and open up for others.
 
----
 
 ## 💡 What We Do
 
@@ -14,7 +13,6 @@ Every library we create is something we **use ourselves in production** then pol
 - 🧠 Keep our work **minimal, well-typed, and dependency-free** whenever possible  
 - 🤝 Share our internal tools as **public building blocks** for the community  
 
----
 
 ## 🌟 Featured Projects
 
@@ -26,7 +24,6 @@ Every library we create is something we **use ourselves in production** then pol
 
 *(More coming soon!)*
 
----
 
 ## 🧭 Our Philosophy
 
@@ -39,7 +36,6 @@ That’s why every repo in this organization is designed with:
 - Thoughtful naming and documentation  
 - Real-world practicality  
 
----
 
 ## 🤝 Contributing
 
@@ -48,7 +44,6 @@ If you’d like to help improve one of our projects, open an issue or pull reque
 
 > 💬 *We build tools for ourselves, but we grow them with you.*
 
----
 
 ## 🌐 Connect With Us
 
